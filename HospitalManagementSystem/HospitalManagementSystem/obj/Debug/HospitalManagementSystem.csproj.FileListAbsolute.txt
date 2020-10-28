@@ -1,0 +1,79 @@
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Form1.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.loginPatient.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.loginAdmin.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.signup.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.adminView.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.viewPatientDetails.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.newPatient.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.patientDetails.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\doctors_info.accdb
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorSchedule.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorSignin.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.appointment.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.tests.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctroDetails.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorsPatient.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorView.resources
+E:\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.checkout.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\doctors_info.accdb
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.checkout.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorsPatient.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorView.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctroDetails.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.adminView.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.appointment.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorSchedule.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorSignin.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Form1.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.loginAdmin.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.loginPatient.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.newPatient.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.patientDetails.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.signup.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.tests.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.viewPatientDetails.resources
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\doctors_info.accdb
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.checkout.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorsPatient.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorView.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctroDetails.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.adminView.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.appointment.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorSchedule.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.doctorSignin.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Form1.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.loginAdmin.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.loginPatient.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.newPatient.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.patientDetails.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.signup.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.tests.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.viewPatientDetails.resources
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\SanaZia\Downloads\hms\hms\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\SanaZia\Downloads\hms\hospital management system\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.NewDoctor.resources
